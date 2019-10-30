@@ -14,8 +14,7 @@
 }
 
 h1 {
-	background-image: url(https://media.giphy.com/media/xT8qB7fZ7uIykBIWOc/giphy.gif);
-	background-size: repeat;
+	background-image: url(https://media.giphy.com/media/xT8qB7fZ7uIykBIWOc/giphy.gif), repeat;
 	color: transparent;
 	-moz-background-clip: text;
 	-webkit-background-clip: text;
@@ -28,6 +27,7 @@ h1 {
 
 body {
   background: url(https://media.giphy.com/media/26tn6Me6pD4Bel37G/giphy.gif), linear-gradient(270deg, red, yellow, blue, pink, green, orange, purple, teal, turquoise);
+background-repeat: repeat;
   background-size:400% 400%;
   -webkit-animatison: AnimationName 4s ease infinite;
   -moz-animation: AnimationName 4s ease infinite;
