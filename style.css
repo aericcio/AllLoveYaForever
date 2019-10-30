@@ -27,8 +27,7 @@ h1 {
 }
 
 body {
-  background: url(https://media.giphy.com/media/26tn6Me6pD4Bel37G/giphy.gif), linear-gradient(270deg, red, yellow, blue, pink, green, orange, purple, teal, turquoise);
-background-repeat: repeat;
+  background:  linear-gradient(270deg, red, yellow, blue, pink, green, orange, purple, teal, turquoise), url(https://media.giphy.com/media/26tn6Me6pD4Bel37G/giphy.gif);
   background-size:400% 400%;
   -webkit-animatison: AnimationName 4s ease infinite;
   -moz-animation: AnimationName 4s ease infinite;
