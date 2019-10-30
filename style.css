@@ -30,7 +30,7 @@ animation: AnimationName 4s ease infinite;
 }
 
 div#center {
-  height:50px;
+  height:100px;
   width:auto;
   display: : flex;
   align-items: center;
