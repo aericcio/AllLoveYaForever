@@ -27,8 +27,10 @@ h1 {
 }
 
 #pure-sex {
-    padding:15px;
+    padding:4vmax;
     background:url(https://media.giphy.com/media/sRHOB9D4S9DgM8N7Wt/giphy.gif);
+    background-size:cover;
+    background:center;
 }
 
 body {
