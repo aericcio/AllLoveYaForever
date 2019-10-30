@@ -14,6 +14,10 @@
   line-height:0;
 }
 
+#format-test {
+    background-color:white;
+}
+
 h1 {
   font-family: "Philosopher";
 	background-image: url(https://media.giphy.com/media/l46C6rYnP1n0C4cdG/giphy.gif);
