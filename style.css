@@ -28,8 +28,6 @@ div#center {
   -webkit-animation: AnimationName 4s ease infinite;
   -moz-animation: AnimationName 4s ease infinite;
   animation: AnimationName 4s ease infinite;
-
-  height:100px;
   display: : flex;
   align-items: center;
   justify-content: center;
