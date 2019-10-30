@@ -17,7 +17,7 @@
 #format-test {
     padding:25px;
     border-image:url(https://media.giphy.com/media/xT8qB7fZ7uIykBIWOc/giphy.gif) 30 round;
-    border: 3px 3px solid transparent;
+    border: 10px solid transparent;
 }
 
 h1 {
