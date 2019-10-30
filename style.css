@@ -14,7 +14,7 @@
 }
 
 h1 {
-	background-image: url(https://media.giphy.com/media/xT8qB7fZ7uIykBIWOc/giphy.gif), repeat;
+	background-image: url(https://media.giphy.com/media/xT8qB7fZ7uIykBIWOc/giphy.gif);
 	color: transparent;
 	-moz-background-clip: text;
 	-webkit-background-clip: text;
