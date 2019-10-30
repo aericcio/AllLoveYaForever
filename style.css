@@ -23,7 +23,7 @@ h1 {
 	-webkit-background-clip: text;
 	text-transform: uppercase;
 	font-size: 17.5vmax;
-  line-height:0;
+  line-height:17.5vmax;
   margin:0;
   padding:0;
 
