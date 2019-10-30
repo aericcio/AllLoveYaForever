@@ -23,6 +23,7 @@ h1 {
 	text-transform: uppercase;
 	font-size: 17.5vmax;
   line-height:.75;
+  margin-top:10px;
 }
 h2{
   font-family: "Orbitron";
