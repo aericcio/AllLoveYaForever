@@ -2,12 +2,11 @@ p {
   font-size: 44px;
   color: white;
   text-align: center;
-position: absolute;
-left:50%;
-top:50%;
-transform: translate(-50%,-50%);
-
-
+  position: absolute;
+  display: inline-flex;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 @-webkit-keyframes AnimationName {
@@ -59,8 +58,8 @@ div#center {
   -moz-animation: AnimationName 4s ease infinite;
   animation: AnimationName 4s ease infinite;
   position: absolute;
-  width:50vmax;
-  height:50vmax;
+  width: 50vmax;
+  height: 50vmax;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
