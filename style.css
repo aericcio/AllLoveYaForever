@@ -16,6 +16,9 @@
 
 #format-test {
     background-color:white;
+    padding:25px;
+    border-image:url(https://media.giphy.com/media/xT8qB7fZ7uIykBIWOc/giphy.gif);
+    border: 3px 3px solid;
 }
 
 h1 {
