@@ -27,6 +27,7 @@ h1 {
 
 body {
   background: linear-gradient(270deg, red, yellow, blue, pink, green, orange, purple, teal, turquoise);
+  background-size:400% 400%;
   -webkit-animatison: AnimationName 4s ease infinite;
   -moz-animation: AnimationName 4s ease infinite;
   animation: AnimationName 4s ease infinite;
