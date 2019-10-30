@@ -20,14 +20,19 @@ h1 {
 	-moz-background-clip: text;
 	-webkit-background-clip: text;
 	text-transform: uppercase;
-	font-size: 12.5vmax;
+	font-size: 17.5vmax;
 	line-height: .75;
 	margin: 10px 0;
 
 }
-
-#pure-sex {
-    padding:45px;
+h2{
+  color: transparent;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
+  text-transform: uppercase;
+  font-size: 12.5vmax;
+  line-height: .75;
+  margin: 10px 0;
     background:url(https://media.giphy.com/media/sRHOB9D4S9DgM8N7Wt/giphy.gif);
     background-position: center;
     background-size: cover;
