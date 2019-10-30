@@ -29,9 +29,9 @@ animation: AnimationName 4s ease infinite;
 }
 
 #center {
-  position: : absolute;
-  margin:0;
-  right:50%;
-  top:50%;
-  transform: translate(-50%,-50%);
+  height:auto;
+  width:auto;
+  display: : flex;
+  align-items: center;
+  justify-content: center;
 }
