@@ -40,7 +40,7 @@ h2{
 h3{
   font-family: "Merienda";
   background-image:url(https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif);
-background-size:repeat;
+  background-size:repeat;
   background-position: center;
   color: transparent;
   -moz-background-clip: text;
