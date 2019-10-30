@@ -3,6 +3,7 @@ display:block;
 font-size : 44px;
 color:white;
 text-align: center;
+background-size:200% 200%;
 
 background: linear-gradient(270deg, red, yellow, blue,pink,green,orange,purple,teal,turquoise);
 
@@ -29,7 +30,7 @@ animation: AnimationName 4s ease infinite;
 }
 
 div#center {
-  height:auto;
+  height:50px;
   width:auto;
   display: : flex;
   align-items: center;
