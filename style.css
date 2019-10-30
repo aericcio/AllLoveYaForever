@@ -46,7 +46,8 @@ h2{
 
 h3{
   font-family: "Six Caps";
-  background-image:url(https://media.giphy.com/media/xT8qB7fZ7uIykBIWOc/giphy.gif);
+  /* background-image:url(https://media.giphy.com/media/xT8qB7fZ7uIykBIWOc/giphy.gif); */
+  background-image: url(https://media.giphy.com/media/zHfDSSYHWL5cY/giphy.gif);
   background-size:repeat;
   color: transparent;
   -moz-background-clip: text;
