@@ -3,9 +3,9 @@ display:block;
 font-size : 44px;
 color:white;
 text-align: center;
-background-size:200%, 200%;
 
 background: linear-gradient(270deg, red, yellow, blue,pink,green,orange,purple,teal,turquoise);
+background-size:200%, 200%;
 
 -webkit-animation: AnimationName 4s ease infinite;
 -moz-animation: AnimationName 4s ease infinite;
