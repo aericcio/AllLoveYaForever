@@ -1,8 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css?family=Philosopher:700|Orbitron');
+@import url('https://fonts.googleapis.com/css?family=Philosopher:700|Orbitron|Merienda');
 
 .title {
-	font-family: "Philosopher";
 	text-align: center;
 	color: #FFF;
 	display: flex;
@@ -13,13 +12,14 @@
 }
 
 h1 {
+  font-family: "Philosopher";
 	background-image: url(https://media.giphy.com/media/xT8qB7fZ7uIykBIWOc/giphy.gif);
   background-size:repeat;
 	color: transparent;
 	-moz-background-clip: text;
 	-webkit-background-clip: text;
 	text-transform: uppercase;
-	font-size: 17.5vmax;
+	font-size: 25.5vmax;
 	line-height: .75;
 	margin: 10px 0;
 
@@ -27,6 +27,19 @@ h1 {
 h2{
   font-family: "Orbitron";
   background-image:url(https://media.giphy.com/media/sRHOB9D4S9DgM8N7Wt/giphy.gif);
+  background-size: 250% 250%;
+  background-position: center;
+  color: transparent;
+  -moz-background-clip: text;
+  -webkit-background-clip: text;
+  font-size: 17.5vmax;
+  line-height: .75;
+  margin: 10px 0;
+}
+
+h3{
+  font-family: "Merienda";
+  background-image:url(https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif);
   background-size: 250% 250%;
   background-position: center;
   color: transparent;
