@@ -4,7 +4,7 @@ font-size : 44px;
 color:white;
 text-align: center;
 
-background: linear-gradient(270deg, #00ffbd, #ffffff, #eb00ff);
+background: linear-gradient(270deg, red, yellow, blue);
 background-size: 900% 900%;
 
 -webkit-animation: AnimationName 2s ease infinite;
