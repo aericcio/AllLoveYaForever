@@ -2,6 +2,14 @@ p {
   font-size: 44px;
   color: white;
   text-align: center;
+
+  display: inline-block;
+
+  background: linear-gradient(270deg, red, yellow, blue, pink, green, orange, purple, teal, turquoise);
+  background-size: 800% 800%;
+  -webkit-animatison: AnimationName 4s ease infinite;
+  -moz-animation: AnimationName 4s ease infinite;
+  animation: AnimationName 4s ease infinite;
 }
 
 @-webkit-keyframes AnimationName {
@@ -47,11 +55,7 @@ p {
 }
 
 div#center {
-  background: linear-gradient(270deg, red, yellow, blue, pink, green, orange, purple, teal, turquoise);
-  background-size: 800% 800%;
-  -webkit-animatison: AnimationName 4s ease infinite;
-  -moz-animation: AnimationName 4s ease infinite;
-  animation: AnimationName 4s ease infinite;
+
   position: absolute;
   width:5vmax;
   height:5vmax;
