@@ -23,6 +23,8 @@ h1 {
 	-webkit-background-clip: text;
 	text-transform: uppercase;
 	font-size: 17.5vmax;
+  line-height:0;
+
 }
 h2{
   font-family: "Orbitron";
@@ -33,6 +35,8 @@ h2{
   -moz-background-clip: text;
   -webkit-background-clip: text;
   font-size: 14.5vmax;
+  line-height:0;
+
 
 }
 
@@ -45,6 +49,8 @@ h3{
   -moz-background-clip: text;
   -webkit-background-clip: text;
   font-size: 11.5vmax;
+  line-height:0;
+
 
 }
 
