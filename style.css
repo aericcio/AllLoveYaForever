@@ -1,7 +1,29 @@
 p {
 display:block;
 font-size : 44px;
-background-color:red;
 color:white;
 text-align: center;
+
+background: linear-gradient(270deg, #00ffbd, #ffffff, #eb00ff);
+background-size: 600% 600%;
+
+-webkit-animation: AnimationName 0s ease infinite;
+-moz-animation: AnimationName 0s ease infinite;
+animation: AnimationName 0s ease infinite;
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
 }
