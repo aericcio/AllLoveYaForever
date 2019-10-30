@@ -2,6 +2,8 @@ p {
   font-size: 44px;
   color: white;
   text-align: center;
+  display:inline;
+
 
   background: linear-gradient(270deg, red, yellow, blue, pink, green, orange, purple, teal, turquoise);
   background-size: 800% 800%;
