@@ -30,8 +30,8 @@ animation: AnimationName 4s ease infinite;
 }
 
 div#center {
+  background:yellow;
   height:100px;
-  width:auto;
   display: : flex;
   align-items: center;
   justify-content: center;
