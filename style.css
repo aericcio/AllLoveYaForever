@@ -5,11 +5,11 @@ color:white;
 text-align: center;
 
 background: linear-gradient(270deg, red, yellow, blue,pink,green,orange,purple,teal,turquoise);
-background-size: 900% 900%;
+background-size: 120% 120%;
 
--webkit-animation: AnimationName 2s ease infinite;
--moz-animation: AnimationName 2s ease infinite;
-animation: AnimationName 2s ease infinite;
+-webkit-animation: AnimationName 4s ease infinite;
+-moz-animation: AnimationName 4s ease infinite;
+animation: AnimationName 4s ease infinite;
 
 }
 
