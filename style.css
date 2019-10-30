@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css?family=Philosopher:700|Orbitron|Merienda');
+@import url('https://fonts.googleapis.com/css?family=Philosopher:700|Orbitron|Six+Caps');
 
 .title {
 	text-align: center;
@@ -38,7 +38,7 @@ h2{
 }
 
 h3{
-  font-family: "Merienda";
+  font-family: "Six Caps";
   background-image:url(https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif);
   background-size:repeat;
   background-position: center;
