@@ -28,7 +28,7 @@ animation: AnimationName 4s ease infinite;
     100%{background-position:0% 50%}
 }
 
-#center {
+div#center {
   height:auto;
   width:auto;
   display: : flex;
