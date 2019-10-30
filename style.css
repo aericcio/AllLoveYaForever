@@ -23,7 +23,7 @@ h1 {
 	font-size: 12.5vmax;
 	line-height: .75;
 	margin: 10px 0;
-  /* text-shadow:6px 6px rgba(0, 0, 0, 0.75); */
+  text-shadow:6px 6px rgba(0, 0, 0, 0.75); 
 }
 
 body {
