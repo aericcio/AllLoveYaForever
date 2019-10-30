@@ -1,18 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-p {
-  font-size: 44px;
-  color: white;
-  text-align: center;
-  position: absolute;
-  display: inline-flex;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-}
-
-
 .title {
 	font-family: "Montserrat";
 	text-align: center;
@@ -43,6 +31,7 @@ body {
   -moz-animation: AnimationName 4s ease infinite;
   animation: AnimationName 4s ease infinite;
 }
+
 @-webkit-keyframes AnimationName {
   0% {
     background-position: 0% 50%
@@ -83,13 +72,4 @@ body {
   100% {
     background-position: 0% 50%
   }
-}
-
-div#center {
-  position: absolute;
-  width: 50vmax;
-  height: 50vmax;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
 }
