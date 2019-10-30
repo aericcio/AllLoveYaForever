@@ -2,7 +2,7 @@ p {
   font-size: 44px;
   color: white;
   text-align: center;
-  display:inline;
+  display:inline-block;
 
 
   background: linear-gradient(270deg, red, yellow, blue, pink, green, orange, purple, teal, turquoise);
@@ -55,10 +55,9 @@ p {
 }
 
 div#center {
-
   position: absolute;
-  width:25vmax;
-  height:25vmax;
+  width:50vmax;
+  height:50vmax;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
