@@ -18,6 +18,7 @@
     padding:25px;
     border: 10px solid transparent;
     border-image:url(https://media.giphy.com/media/xT8qB7fZ7uIykBIWOc/giphy.gif) 30 round;
+    transform: scale(75,75);
 }
 
 h1 {
