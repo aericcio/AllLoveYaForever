@@ -28,3 +28,10 @@ animation: AnimationName 4s ease infinite;
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
 }
+
+#center {
+  position: : absolute;
+  left:50%;
+  top:50%;
+  transform: translate(-50%,-50%);
+}
