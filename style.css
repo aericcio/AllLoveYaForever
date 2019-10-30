@@ -36,42 +36,42 @@ body {
 
 @-webkit-keyframes AnimationName {
   0% {
-    background-position: 0% 50%
+    background-position: 0% 25%
   }
 
   50% {
-    background-position: 100% 50%
+    background-position: 150% 25%
   }
 
   100% {
-    background-position: 0% 50%
+    background-position: 0% 25%
   }
 }
 
 @-moz-keyframes AnimationName {
   0% {
-    background-position: 0% 50%
+    background-position: 0% 25%
   }
 
   50% {
-    background-position: 100% 50%
+    background-position: 150% 25%
   }
 
   100% {
-    background-position: 0% 50%
+    background-position: 0% 25%
   }
 }
 
 @keyframes AnimationName {
   0% {
-    background-position: 0% 50%
+    background-position: 0% 25%
   }
 
   50% {
-    background-position: 100% 50%
+    background-position: 150% 25%
   }
 
   100% {
-    background-position: 0% 50%
+    background-position: 0% 25%
   }
 }
