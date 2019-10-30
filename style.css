@@ -5,7 +5,7 @@ color:white;
 text-align: center;
 
 background: linear-gradient(270deg, #00ffbd, #ffffff, #eb00ff);
-background-size: 600% 600%;
+background-size: 100% 100%;
 
 -webkit-animation: AnimationName 0s ease infinite;
 -moz-animation: AnimationName 0s ease infinite;
