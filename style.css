@@ -27,8 +27,8 @@ h1 {
 h2{
   font-family: "Orbitron";
   background-image:url(https://media.giphy.com/media/sRHOB9D4S9DgM8N7Wt/giphy.gif);
-  background-size: cover;
-  background-position: -50% 0%;
+  background-size: 150% 150%;
+  background-position: center;
   color: transparent;
   -moz-background-clip: text;
   -webkit-background-clip: text;
