@@ -28,7 +28,7 @@ div#center {
   -webkit-animation: AnimationName 4s ease infinite;
   -moz-animation: AnimationName 4s ease infinite;
   animation: AnimationName 4s ease infinite;
-
+position:absolute;
   left:50%;
   top:50%;
   transform:translate(-50%,-50%);
