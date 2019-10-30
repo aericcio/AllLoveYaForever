@@ -33,7 +33,7 @@ h2{
   font-size: 12.5vmax;
   line-height: .75;
   margin: 10px 0;
-    background:url(https://media.giphy.com/media/sRHOB9D4S9DgM8N7Wt/giphy.gif);
+    background-image:url(https://media.giphy.com/media/sRHOB9D4S9DgM8N7Wt/giphy.gif);
     background-position: center;
     background-size: cover;
 }
