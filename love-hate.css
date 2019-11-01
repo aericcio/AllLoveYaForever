@@ -3,16 +3,18 @@ body,html {
 }
 
 #hate-page {
+display: flex;
 margin:0;
 padding:0;
 width:100vw;
 height:100vh;
 background-color:black;
+text-align: center;
 
 }
 
 #hate-header {
-
+  align-self:center;
   font-size: 15vmax;
   color:red;
 
@@ -29,9 +31,10 @@ background-color:blue;
 }
 
 #love-header {
+  align-self:center;
 
   font-size: 15vmax;
-  color:white;
+  color: white;
 
 
 }
