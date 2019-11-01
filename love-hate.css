@@ -4,8 +4,8 @@ body,html {
   background-size:cover;
 }
 button {
-  width:5vmax;
-  height:4vmax;
+  width:10vmax;
+  height:8vmax;
   background:pink;
   border:white solid 3px;
 }
