@@ -15,7 +15,6 @@ button {
   left:50%;
   top:50%;
   position: absolute;
-
   transform: translate(-50%,-50%);
 }
 
@@ -26,11 +25,12 @@ button {
   width: 100vw;
   height: 100vh;
   background-color: black;
+  justify-content: center;
+
 }
 
 #hate-header {
   align-self: center;
-  justify-content: center;
   text-align: center;
   font-size: 15vmax;
   color: red;
@@ -43,6 +43,8 @@ button {
   width: 100vw;
   height: 100vh;
   background-color: blue;
+  justify-content: center;
+
 }
 
 #love-header {
