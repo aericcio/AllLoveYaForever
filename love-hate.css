@@ -14,7 +14,7 @@ background-color:black;
 
 #hate-header {
   align-self:center;
-  text-align: center;
+  justify-content: center;
 
   font-size: 15vmax;
   color:red;
@@ -33,7 +33,7 @@ background-color:blue;
 
 #love-header {
   align-self:center;
-  text-align: center;
+  justify-content: center;
 
   font-size: 15vmax;
   color: white;
