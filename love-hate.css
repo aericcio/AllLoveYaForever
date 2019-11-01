@@ -5,13 +5,14 @@ body, html {
 }
 
 button {
-  width: 18vmax;
-  height: 14vmax;
+  width: 16vmax;
+  height: 12vmax;
   background: pink;
   border: white solid 3px;
   text-align: center;
   margin:15px;
   font-size:18px;
+  color:white;
 }
 #button-holder {
   left:50%;
