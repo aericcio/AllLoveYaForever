@@ -22,6 +22,7 @@ button {
   padding:25px;
   background-image:url(https://media2.giphy.com/media/y0HZODZj5vBba/giphy.gif);
   background-size:cover;
+  text-align:center;
   width:100%;
 }
 
