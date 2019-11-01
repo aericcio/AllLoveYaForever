@@ -3,8 +3,7 @@ body,html {
   background-image:url(https://www.gannett-cdn.com/presto/2019/07/15/USAT/5c441ae3-760f-40bf-b262-ef6431542469-GettyImages-940247372.jpg);
   background-size:cover;
   display: flex;
-  justify-content: center;
-  text-align: center;
+
 
 }
 button {
@@ -13,7 +12,8 @@ button {
   background:pink;
   border:white solid 3px;
   align-self:center;
-
+  justify-content: center;
+  text-align: center;
 }
 #hate-page {
 margin:0;
@@ -26,6 +26,8 @@ background-color:black;
 
 #hate-header {
   align-self:center;
+  justify-content: center;
+  text-align: center;
   font-size: 15vmax;
   color:red;
 
@@ -43,7 +45,8 @@ background-color:blue;
 
 #love-header {
   align-self:center;
-
+  justify-content: center;
+  text-align: center;
   font-size: 15vmax;
   color: white;
 
