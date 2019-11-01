@@ -1,7 +1,7 @@
 #hate-page {
 
-width:100%;
-height:100%;
+width:100vw;
+height:100vh;
 background-color:black;
 
 }
@@ -9,6 +9,23 @@ background-color:black;
 h1 {
 
   font-size: 25vmax;
-  
+  color:red;
+
+
+}
+
+#love-page {
+
+width:100vw;
+height:100vh;
+background-color:blue;
+
+}
+
+h1 {
+
+  font-size: 25vmax;
+  color:white;
+
 
 }
