@@ -15,13 +15,14 @@ background-color:black;
 #hate-header {
   align-self:center;
   text-align: center;
-  
+
   font-size: 15vmax;
   color:red;
 
 }
 
 #love-page {
+display: flex;
 margin:0;
 padding:0;
 width:100vw;
