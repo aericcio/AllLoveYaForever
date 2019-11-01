@@ -2,47 +2,47 @@ body,html {
   height:100%;
   background-image:url(https://www.gannett-cdn.com/presto/2019/07/15/USAT/5c441ae3-760f-40bf-b262-ef6431542469-GettyImages-940247372.jpg);
   background-size:cover;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+
 }
 button {
   width:10vmax;
   height:8vmax;
   background:pink;
   border:white solid 3px;
+  align-self:center;
+
 }
 #hate-page {
-display: flex;
 margin:0;
 padding:0;
 width:100vw;
 height:100vh;
 background-color:black;
-justify-content: center;
 
 }
 
 #hate-header {
   align-self:center;
-  text-align: center;
   font-size: 15vmax;
   color:red;
 
 }
 
 #love-page {
-display: flex;
 margin:0;
 padding:0;
 width:100vw;
 height:100vh;
 background-color:blue;
-justify-content: center;
 
 
 }
 
 #love-header {
   align-self:center;
-  text-align: center;
 
   font-size: 15vmax;
   color: white;
