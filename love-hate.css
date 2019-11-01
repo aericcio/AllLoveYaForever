@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo|Luckiest+Guy|Permanent+Marker');
+
 body, html {
   height: 100%;
   background-image: url(https://www.gannett-cdn.com/presto/2019/07/15/USAT/5c441ae3-760f-40bf-b262-ef6431542469-GettyImages-940247372.jpg);
@@ -5,8 +7,7 @@ body, html {
 }
 
 button {
-  width: 16vmax;
-  height: 12vmax;
+  padding:15px;
   background: pink;
   border: white solid 3px;
   text-align: center;
@@ -27,6 +28,7 @@ button {
 }
 
 #hate-page {
+  font-family: 'Permanent Marker', cursive;
   display: flex;
   margin: 0;
   padding: 0;
@@ -56,6 +58,7 @@ button {
 }
 
 #love-header {
+  font-family: 'Baloo', cursive;
   align-self: center;
   justify-content: center;
   text-align: center;
