@@ -3,6 +3,7 @@ $(document).ready(function(){
     $.ajax({url: "doyouloveme.html", success: function(result){
       $("#love-div").html(result);
       $("#love-button").hide();
+      $("#love-hate").hide();
 
     }});
   });
@@ -10,8 +11,9 @@ $(document).ready(function(){
 
     $.ajax({url: "doyouhateme.html", success: function(result){
       $("#hate-div").html(result);
-      $("#love-hate").hide();
+      $("#love-button").hide();
 
+      $("#love-hate").hide();
     }});
   });
 });
