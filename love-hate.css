@@ -5,6 +5,7 @@ body,html {
 #hate-page {
 
 width:100vw;
+height:100vh;
 background-color:black;
 
 }
@@ -20,6 +21,7 @@ h1 {
 #love-page {
 
 width:100vw;
+height:100vh;
 background-color:blue;
 
 }
