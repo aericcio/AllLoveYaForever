@@ -3,14 +3,15 @@ body,html {
 }
 
 #hate-page {
-
+margin:0;
+padding:0;
 width:100vw;
 height:100vh;
 background-color:black;
 
 }
 
-h1 {
+h1#hate {
 
   font-size: 15vmax;
   color:red;
@@ -19,14 +20,15 @@ h1 {
 }
 
 #love-page {
-
+margin:0;
+padding:0;
 width:100vw;
 height:100vh;
 background-color:blue;
 
 }
 
-h1 {
+h1#love {
 
   font-size: 15vmax;
   color:white;
