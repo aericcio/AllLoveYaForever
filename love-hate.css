@@ -2,9 +2,6 @@ body,html {
   height:100%;
   background-image:url(https://www.gannett-cdn.com/presto/2019/07/15/USAT/5c441ae3-760f-40bf-b262-ef6431542469-GettyImages-940247372.jpg);
   background-size:cover;
-  display: flex;
-
-
 }
 button {
   width:10vmax;
@@ -16,6 +13,7 @@ button {
   text-align: center;
 }
 #hate-page {
+display: flex;
 margin:0;
 padding:0;
 width:100vw;
@@ -34,6 +32,8 @@ background-color:black;
 }
 
 #love-page {
+  display: flex;
+
 margin:0;
 padding:0;
 width:100vw;
