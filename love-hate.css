@@ -9,7 +9,6 @@ padding:0;
 width:100vw;
 height:100vh;
 background-color:black;
-text-align: center;
 
 }
 
@@ -17,6 +16,7 @@ text-align: center;
   align-self:center;
   font-size: 15vmax;
   color:red;
+  text-align: center;
 
 
 }
@@ -32,6 +32,7 @@ background-color:blue;
 
 #love-header {
   align-self:center;
+  text-align: center;
 
   font-size: 15vmax;
   color: white;
