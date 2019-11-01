@@ -11,6 +11,7 @@ button {
   border: white solid 3px;
   text-align: center;
   margin:15px;
+  font-size:18px;
 }
 #button-holder {
   left:50%;
