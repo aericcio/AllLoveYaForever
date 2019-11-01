@@ -1,54 +1,50 @@
-body,html {
-  height:100%;
-  background-image:url(https://www.gannett-cdn.com/presto/2019/07/15/USAT/5c441ae3-760f-40bf-b262-ef6431542469-GettyImages-940247372.jpg);
-  background-size:cover;
+body, html {
+  height: 100%;
+  background-image: url(https://www.gannett-cdn.com/presto/2019/07/15/USAT/5c441ae3-760f-40bf-b262-ef6431542469-GettyImages-940247372.jpg);
+  background-size: cover;
 }
+
 button {
-  width:10vmax;
-  height:8vmax;
-  background:pink;
-  border:white solid 3px;
-  align-self:center;
-  justify-content: center;
+  width: 10vmax;
+  height: 8vmax;
+  background: pink;
+  border: white solid 3px;
   text-align: center;
 }
-#hate-page {
-display: flex;
-margin:0;
-padding:0;
-width:100vw;
-height:100vh;
-background-color:black;
+#button-holder {
+  margin:0 auto;
+}
 
+#hate-page {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
 }
 
 #hate-header {
-  align-self:center;
+  align-self: center;
   justify-content: center;
   text-align: center;
   font-size: 15vmax;
-  color:red;
-
+  color: red;
 }
 
 #love-page {
   display: flex;
-
-margin:0;
-padding:0;
-width:100vw;
-height:100vh;
-background-color:blue;
-
-
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: blue;
 }
 
 #love-header {
-  align-self:center;
+  align-self: center;
   justify-content: center;
   text-align: center;
   font-size: 15vmax;
   color: white;
-
-
 }
