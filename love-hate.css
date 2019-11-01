@@ -1,7 +1,7 @@
 #hate-page {
 
 width:100vw;
-height:100vh;
+height:auto;
 background-color:black;
 
 }
@@ -17,7 +17,7 @@ h1 {
 #love-page {
 
 width:100vw;
-height:100vh;
+height:auto;
 background-color:blue;
 
 }
