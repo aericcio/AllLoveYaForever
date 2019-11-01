@@ -1,7 +1,12 @@
 body,html {
   height:100%;
 }
-
+button {
+  width:5vmax;
+  height:4vmax;
+  background:pink;
+  border:white solid 3px;
+}
 #hate-page {
 display: flex;
 margin:0;
