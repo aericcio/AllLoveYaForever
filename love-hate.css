@@ -11,7 +11,7 @@ background-color:black;
 
 }
 
-h1 #hate {
+#hate-header {
 
   font-size: 15vmax;
   color:red;
@@ -28,7 +28,7 @@ background-color:blue;
 
 }
 
-h1 #love {
+#love-header {
 
   font-size: 15vmax;
   color:white;
